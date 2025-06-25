@@ -21,8 +21,14 @@ I’m a passionate **Frontend Web Developer** specialized in building interactiv
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
 
-(anuraghazra/github-readme-stats
-DenverCoder1/github-readme-streak-stats)
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-H-Nayem&show_icons=true&theme=tokyonight)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-H-Nayem&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-H-Nayem&layout=compact&theme=tokyonight)
+
 
 ## 📂 Featured Projects
 | Project | Tech Stack | Live | Code |
