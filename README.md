@@ -4,6 +4,14 @@
 
 I’m a passionate **Frontend Web Developer** specialized in building interactive, responsive, and user-friendly web applications.
 
+## 📄 About Me
+- 💻 Currently pursuing a **BSc in Agricultural Engineering and Technology**.  
+- 🌐 Skilled in **HTML5, CSS3, Tailwind CSS, JavaScript, React.js**.  
+- 🚀 learning **Node.js, Express.js, and MongoDB** to grow as a full-stack developer.  
+- 🎯 Passionate about building user-friendly web applications and solving real-world problems.  
+- 🤝 Love to work in team environments and always open to learning new technologies.  
+
+
 ## 🚀 Skills
 - 💻 HTML5 | CSS3 | Tailwind CSS | JavaScript (ES6+)
 - ⚛️ React.js | Node.js | Express.js
