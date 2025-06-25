@@ -31,7 +31,7 @@ I’m a passionate **Frontend Web Developer** specialized in building interactiv
 ## 📫 Connect With Me
 - 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
 - 💼 [Portfolio](https://yourportfolio.com)
-- 📧 Email: yourname@example.com
+- 📧 Email: mahmudulhasannayemssnic@gmail.com
 
 ---
 
