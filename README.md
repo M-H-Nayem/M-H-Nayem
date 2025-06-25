@@ -21,6 +21,9 @@ I’m a passionate **Frontend Web Developer** specialized in building interactiv
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
 
+(anuraghazra/github-readme-stats
+DenverCoder1/github-readme-streak-stats)
+
 ## 📂 Featured Projects
 | Project | Tech Stack | Live | Code |
 |---------|------------|------|------|
