@@ -20,7 +20,6 @@ I’m a passionate **Frontend Web Developer** specialized in building interactiv
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
-![Michael Hoffmann's GitHub Stats](https://github-readme-stats.vercel.app/api?username=MichaelHoffmann&show_icons=true&theme=dark)
 
 ## 📂 Featured Projects
 | Project | Tech Stack | Live | Code |
