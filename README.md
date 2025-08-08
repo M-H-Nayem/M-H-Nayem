@@ -13,15 +13,13 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 🤝 Love to work in team environments and always open to learning new technologies.  
 
 
+##🚀 My Skills
 
-<h2 align="">🚀 My Skills</h2>
-
-<div align="left">
 - 💻 **Frontend Development:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js
 - ⚙️ **Backend Development:** Node.js, Express.js
 - 🗄️ **Database:** MongoDB
 - 🛠️ **Core Skills:** Building APIs, Responsive Design, Modern UI/UX
-</div>
+
 
 
 ## 📫 Let's Connect
