@@ -12,6 +12,48 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 🎯 Passionate about building user-friendly web applications and solving real-world problems.  
 - 🤝 Love to work in team environments and always open to learning new technologies.  
 
+---
+
+<h2 align="left">🚀 My Skills & Expertise</h2>
+
+<div align="left">
+
+</div>
+
+<div align="left">
+  <h3>💻 Frontend Development</h3>
+  <div>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5 Badge" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3 Badge" />
+    <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS Badge" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript Badge" />
+    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React Badge" />
+  </div>
+  <br>
+
+  <h3>⚙️ Backend Development</h3>
+  <div>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js Badge" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js Badge" />
+  </div>
+  <br>
+
+  <h3>🗄️ Database</h3>
+  <div>
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB Badge" />
+  </div>
+  <br>
+  
+  <h3>🛠️ Core Skills</h3>
+  <div>
+    <img src="https://img.shields.io/badge/APIs-007ACC?style=for-the-badge&logo=json&logoColor=white" alt="APIs Badge" />
+    <img src="https://img.shields.io/badge/Responsive_Design-1572B6?style=for-the-badge&logo=w3c&logoColor=white" alt="Responsive Design Badge" />
+    <img src="https://img.shields.io/badge/UI%2FUX_Design-F24E1E?style=for-the-badge&logo=adobe-xd&logoColor=white" alt="UI/UX Design Badge" />
+  </div>
+</div>
+
+---
+
 
 ## 🚀 Skills
 - 💻 HTML5 | CSS3 | Tailwind CSS | JavaScript (ES6+)
