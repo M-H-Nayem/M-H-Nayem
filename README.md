@@ -12,9 +12,9 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 🎯 Passionate about building user-friendly web applications and solving real-world problems.  
 - 🤝 Love to work in team environments and always open to learning new technologies.  
 
----
 
-<h2 align="left">🚀 My Skills & Expertise</h2>
+
+##<h2 align="left">🚀 My Skills & Expertise</h2>
 
 <div align="left">
 
