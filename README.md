@@ -51,8 +51,10 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 
 
 ## 📫 Let's Connect
-- 📧 Email: mahmudulhasannayemssnic@gmail.com
-- 📱 WhatsApp: +8801921785957
+- 📧 Email: [mahmudulhasannayemssnic@gmail.com](mailto:mahmudulhasannayemssnic@gmail.com)
+- 📱 WhatsApp: [+8801921785957](https://wa.me/8801921785957)
+- 🌐 Website: [Your Portfolio Name](https://your-portfolio-website.com)
+- 
 
 ## <h2 align="left">🤝 Reach me out (Socials)</h2>
 
