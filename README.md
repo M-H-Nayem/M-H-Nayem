@@ -59,8 +59,8 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 
 
 ## 📂 Featured Projects
-| Project | Tech Stack | Live | Code |
-|---------|------------|------|------|
+| Project      | Tech Stack         | Live   | Code   |
+|--------------|--------------------|--------|--------|
 | **Portfolio Website** | React, Tailwind CSS | [Live](https://yourportfolio.com) | [Code](https://github.com/username/portfolio) |
 | **E-Commerce App** | MERN Stack | [Live](https://yourecommerce.com) | [Code](https://github.com/username/ecommerce-app) |
 | **Blog Website** | React, Node.js, MongoDB | [Live](https://yourblog.com) | [Code](https://github.com/username/blog-app) |
