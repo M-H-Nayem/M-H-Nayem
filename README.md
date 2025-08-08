@@ -28,7 +28,7 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 🌐 Website: [Your Portfolio Name](https://your-portfolio-website.com)
 
 
-## <h2 align="left">🤝 Reach me out (Socials)</h2>
+Socials
 
 <p align="left">
   <a href="https://www.linkedin.com/in/md--mahmudul-hasan-nayem/" target="_blank" rel="noopener noreferrer">
