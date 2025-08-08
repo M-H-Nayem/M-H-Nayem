@@ -5,7 +5,6 @@
 I’m a passionate Web Developer specialized in building interactive, responsive, and user-friendly web applications.
 
 
-
 ## 📄 About Me
 - 💻 Currently pursuing a **BSc in Agricultural Engineering and Technology**.  
 - 🌐 Skilled in **HTML5, CSS3, Tailwind CSS, JavaScript, React.js**.  
