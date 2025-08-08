@@ -55,9 +55,6 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
 
-
----
-
 <h2 align="left">✨ Current Endeavors</h2>
 
 <p align="left">
@@ -71,9 +68,6 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 <br>
 
 </p>
-
----
-
 
 
 ## 📊 Current Stats
