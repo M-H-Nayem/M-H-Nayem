@@ -7,13 +7,12 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 
 ## 📄 About Me
 - 💻 Currently pursuing a **BSc in Agricultural Engineering and Technology**.  
-- 🌐 Skilled in **HTML5, CSS3, Tailwind CSS, JavaScript, React.js**.  
-- 🚀 learning **Node.js, Express.js, and MongoDB** to grow as a full-stack developer.  
+- 🌐 Skilled in **HTML5, CSS3, Tailwind CSS, JavaScript, React.js**.   
 - 🎯 Passionate about building user-friendly web applications and solving real-world problems.  
 - 🤝 Love to work in team environments and always open to learning new technologies.  
 
 
-## 🚀 My Skills
+## 🚀 My Skills & Expertise
 
 - 💻 **Frontend Development:** HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React.js
 - ⚙️ **Backend Development:** Node.js, Express.js
@@ -26,7 +25,6 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 📧 Email: [mahmudulhasannayemssnic@gmail.com](mailto:mahmudulhasannayemssnic@gmail.com)
 - 📱 WhatsApp: [+8801921785957](https://wa.me/8801921785957)
 - 🌐 Website: [Your Portfolio Name](https://your-portfolio-website.com)
-
 
 Socials
 
@@ -55,19 +53,11 @@ Socials
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
 
-<h2 align="left">✨ Current Endeavors</h2>
-
-<p align="left">
-- 🔭 &nbsp; I'm currently <b>exploring Next.js</b> to build dynamic, server-side rendered applications.
-<br>
-- 👨‍💻 &nbsp; I’m actively <b>working on a Admission website</b> to help students plan their next journey
-<br>
+## ✨ Current Endeavors
+- 🔭 &nbsp; I'm currently **exploring Next.js and TypeScript** to build dynamic, server-side rendered applications.
+- 👨‍💻 &nbsp; I’m actively **working on an Admission Website** to help students plan their next journey.
 - 🌱 &nbsp; I'm learning more about serverless architecture and cloud functions.
-<br>
-- 🔭 &nbsp; I'm currently exploring<b>Typescript</b> to build dynamic, server-side rendered applications.
-<br>
 
-</p>
 
 
 ## 📊 Current Stats
