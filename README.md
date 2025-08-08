@@ -50,12 +50,6 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 </div>
 
 
-## 🚀 Skills
-- 💻 HTML5 | CSS3 | Tailwind CSS | JavaScript (ES6+)
-- ⚛️ React.js | Node.js | Express.js
-- 🗄️ MongoDB
-- 🔥 Building APIs | Responsive Design | Modern UI/UX
-
 ## 📫 Let's Connect
 - 📧 Email: mahmudulhasannayemssnic@gmail.com
 - 📱 WhatsApp: +8801921785957
