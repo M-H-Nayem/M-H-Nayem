@@ -51,6 +51,29 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 
 
 
+---
+
+<h2 align="left">✨ Current Endeavors</h2>
+
+<p align="center">
+  A quick look at what I'm currently up to:
+</p>
+
+<p align="left">
+- 🔭 &nbsp; I'm currently **exploring Next.js** to build dynamic, server-side rendered applications.
+<br>
+- 👨‍💻 &nbsp; I’m actively **working on a tourism website** to help people plan their next adventure.
+<br>
+- 🌱 &nbsp; I'm learning more about **serverless architecture** and cloud functions.
+<br>
+- 👯 &nbsp; I'm open to collaborating on **open-source projects** related to web development.
+<br>
+- 💬 &nbsp; Ask me about **JavaScript, React, Node.js, and Express.js!**
+</p>
+
+---
+
+
 
 ## 📊 Current Stats
 
