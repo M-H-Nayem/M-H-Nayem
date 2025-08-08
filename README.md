@@ -20,6 +20,25 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 - 🗄️ MongoDB
 - 🔥 Building APIs | Responsive Design | Modern UI/UX
 
+## 📫 Let's Connect
+- 📧 Email: mahmudulhasannayemssnic@gmail.com
+- 📱 WhatsApp: +8801921785957
+
+## <h2 align="left">🤝 Reach me out (Socials)</h2>
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/md--mahmudul-hasan-nayem/" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.facebook.com/mahmudulhasannayem698" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+ 
+</p>
+
 
 ## 🛠️ Technologies I Use
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
@@ -32,7 +51,9 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 ![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat)
 
 
-## 📊 GitHub Stats
+
+
+## 📊 Current Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=M-H-Nayem&show_icons=true&theme=tokyonight) ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=M-H-Nayem&theme=tokyonight) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-H-Nayem&layout=compact&theme=tokyonight)
 
@@ -45,28 +66,10 @@ I’m a passionate Web Developer specialized in building interactive, responsive
 | **Blog Website** | React, Node.js, MongoDB | [Live](https://yourblog.com) | [Code](https://github.com/username/blog-app) |
 
 
-## <h2 align="left">🤝 Reach me out</h2>
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.facebook.com/YOUR_FACEBOOK_PROFILE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
-  </a>
-  <a href="https://twitter.com/YOUR_TWITTER_PROFILE" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-  <a href="mailto:YOUR_EMAIL_ADDRESS">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
-  </a>
-</p>
 
 
-## 📫 Connect With Me
-- 🔗 [LinkedIn](https://linkedin.com/in/yourusername)
-- 💼 [Portfolio](https://yourportfolio.com)
-- 📧 Email: mahmudulhasannayemssnic@gmail.com
+
+
 
 ---
 
